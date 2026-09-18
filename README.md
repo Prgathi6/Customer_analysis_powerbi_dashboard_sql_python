@@ -17,11 +17,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 Project Workflow
 
 🛠️ How to Use This Project
-Clone the repository
 
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
-Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
 This file contains:
 
@@ -55,4 +51,3 @@ Create project report
 
 Build presentation deck using Gamma AI
 
-Follow along with the YouTube video for full walkthrough. 👨‍💼
